@@ -1,4 +1,4 @@
-*.cproj
+*.cpproj
 Debug/
 Release/
 Temp-Hum_meter.componentinfo.xml
